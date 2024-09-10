@@ -1,0 +1,11 @@
+body{
+  background-color: #29292E;
+}
+
+#page{
+  box-sizing: border-box;
+  width: 1280px;
+  padding: 65px;
+  background-color: #F5F4F0;
+  margin: 80px auto;
+}
